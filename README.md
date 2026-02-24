@@ -82,7 +82,7 @@ Prodigy-Infotech-Task-5
 │ └──Task_5.png 
 └── README.md
 
-## 📊 Results (Short Version)
+## 📊 Results
 
 The analysis shows that traffic accidents peak during rush hours, indicating congestion as a major factor. Most accidents occur under clear weather and dry road conditions, highlighting the impact of driver behavior. Poor lighting conditions increase accident severity, and multi-vehicle accidents tend to be more severe than single-vehicle crashes.
 
